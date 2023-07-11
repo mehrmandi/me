@@ -21,13 +21,3 @@ h3 {
   margin: 30px auto;
   width: 150px;
 }
-
-@media (max-width: 576px) {
-  h4{
-    text-align: center;
-    color: blue !important;
-  }
-  .logo-sm{
-    display: none;
-  }
-}
